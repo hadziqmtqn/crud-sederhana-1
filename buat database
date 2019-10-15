@@ -1,1 +1,9 @@
-buat database dan table di mysql, untuk nama databasenya kita buat sama denga nama projectnya yaitu : crud. Setelah itu kita buat table dengan nama Books
+// buat database dan table di mysql, untuk nama databasenya kita buat sama denga nama projectnya
+// yaitu : crud. Setelah itu kita buat table dengan nama Books
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=crud
+DB_USERNAME=root
+DB_PASSWORD=
