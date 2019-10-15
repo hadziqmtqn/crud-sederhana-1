@@ -1,6 +1,6 @@
 // buka diterminal
 // php artisan make:controller BooksController
-// kemudian isi dengan kode berikut
+// Letak file di app/Http/Controllers/
 
 <?php
 
