@@ -1,3 +1,4 @@
+// Letakkan di folder resources/views/
 <!doctype html>
 <html lang="en">
   <head>
