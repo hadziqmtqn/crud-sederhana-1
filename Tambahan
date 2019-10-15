@@ -1,0 +1,4 @@
+Setelah berhasil buka terminal
+php artisan key:generate
+php artisan config:cache
+php artisan cache:clear
