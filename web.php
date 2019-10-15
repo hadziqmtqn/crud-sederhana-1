@@ -1,3 +1,6 @@
+//routing ini berfungsi untuk menghubungkan controller dengan view, routing ini
+// kita tambahkan didalam folder routes/web.php dan tambahkan kode berikut :
+
 <?php
 
 /*
