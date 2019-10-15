@@ -1,3 +1,6 @@
+// buka diterminal
+// php artisan make:model Books
+// letak file di app/
 <?php
 
 namespace App;
