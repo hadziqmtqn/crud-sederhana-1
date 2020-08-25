@@ -1,7 +1,3 @@
-// buka diterminal
-// php artisan make:controller BooksController
-// Letak file di app/Http/Controllers/
-
 <?php
 
 namespace App\Http\Controllers;
